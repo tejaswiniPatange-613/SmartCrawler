@@ -1,0 +1,40 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Reports (ignore generated reports)
+reports/*.json
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# pytest cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
